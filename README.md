@@ -1,0 +1,2 @@
+# Discord-Compressor
+WIP.
